@@ -14,7 +14,7 @@
 - https://afternoon-plateau-43251.herokuapp.com/
 ## Description
 - The user can enter text and a title of a note that can be saved on an HTML page
-- Notes can be saved and referenced later
+- Notes can be saved and referenced later through local storage
 - Notes can be deleted as needed
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
